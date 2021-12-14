@@ -1,5 +1,4 @@
- <h1 align="center"> Hi there 👋  i'm Ashish</h1> 
-______________________________________________________________________________________________________________________________________________________________________________
+ <h1 align="center"> Hi there 👋  i'm Ashish </h1> 
  
  <h3 align="center" color="green"> I'm full stack web & app developer </h3>
 

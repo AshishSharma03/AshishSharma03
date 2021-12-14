@@ -2,8 +2,7 @@
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 <h3>I'm full stack web & app developer<h3>
-![image](https://user-images.githubusercontent.com/46992681/146074141-d6ed2a84-aebe-4717-9194-b93bdc17f60a.png)
-
+![1_KlNlGjWBb0mScNgnX9Uxjw](https://user-images.githubusercontent.com/46992681/146074267-c49c37bd-cfb1-4e7f-b95e-e11c615023e8.gif)
 
 <!--
 **AshishSharma03/AshishSharma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

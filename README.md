@@ -1,7 +1,8 @@
  ### Hi there 👋  i'm Ashish 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-<h3 style="color:red">I'm full stack web & app developer<h3>
+<h3>I'm full stack web & app developer<h3>
+![image](https://user-images.githubusercontent.com/46992681/146074141-d6ed2a84-aebe-4717-9194-b93bdc17f60a.png)
 
 
 <!--

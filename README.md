@@ -1,7 +1,7 @@
- ### Hi there 👋  i'm Ashish 
+ <h1 align="center"> Hi there 👋  i'm Ashish</h1> 
 ___________________________________________________________________________________________________________________________________________________________________________________
  
- <h1 align="center"> I'm full stack web & app developer </h1>
+ <h3 align="center" color="green"> I'm full stack web & app developer </h3>
 
 <!--
 **AshishSharma03/AshishSharma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

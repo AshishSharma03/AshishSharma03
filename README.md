@@ -1,5 +1,5 @@
 ### Hi there 👋  i'm Ashish 
-- I'm full stack web & app developer
+# I'm full stack web & app developer
 <!--
 **AshishSharma03/AshishSharma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

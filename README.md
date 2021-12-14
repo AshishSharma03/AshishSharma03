@@ -1,7 +1,7 @@
  ### Hi there 👋  i'm Ashish 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-<h3 style="text-align:center">I'm full stack web & app developer<h3>
+<h3 style="color:red">I'm full stack web & app developer<h3>
 
 
 <!--

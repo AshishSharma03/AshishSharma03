@@ -1,7 +1,7 @@
  <h1 align="center"> Hi there 👋  i'm Ashish </h1> 
  
- <h3 align="center"> I'm  react full stack web & app developer (MERN)</h3>
-
+ <h3 align="center"> I'm  react full stack web & app developer (MERN) </h3>
+ 
 <!--
 **AshishSharma03/AshishSharma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
